@@ -1,7 +1,7 @@
 Hi 👋 My name is Mohammad Khakhariawala
 =======================================
 
-Cybersecurity | Networking | Web Development
+Software Engineering | Web Development
 --------------------------------------------
 
 * 🌍  I'm based in Stony Brook, New York
