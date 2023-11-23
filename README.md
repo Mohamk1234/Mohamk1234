@@ -6,8 +6,6 @@ Cybersecurity | Networking | Web Development
 
 * 🌍  I'm based in Stony Brook, New York
 * ✉️  You can contact me at [mohammadkhakharia@gmail.com](mailto:mohammadkhakharia@gmail.com)
-* 🧠  I'm learning Penetration Testing
-* 🤝  I'm open to collaborating on Web 3.0 Projects
 
 ### Skills
 
